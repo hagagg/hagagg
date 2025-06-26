@@ -1,7 +1,5 @@
-<p align="center">
-  👋 Hi, I'm <b>Ahmed Hagag</b> <br>
-  <b>Backend Developer | Java | Spring Boot</b>
-</p>
+<h1 align="center">👋 Hi, I'm Ahmed Hagag</h1>
+<h3 align="center">Backend Developer | Java | Spring Boot</h3>
 
 ---
 
@@ -11,7 +9,7 @@
 
 ---
 
-### 📫 Let's Connect :
+### 📫 You can reach me with the links below
 
 <a href="mailto:ahmad.haggaag@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
