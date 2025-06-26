@@ -5,7 +5,7 @@
 
 🔭 I’m a graduate of **FCI - Menofia University**  
 💼 I work with **Spring Boot** and continually enhance my grasp of **clean architecture** and **backend engineering best practices**.  
-🛠️ I’ve also worked with **Node.js**.
+🎯 I’m currently looking for a backend development opportunity where I can contribute and grow.
 
 ---
 
